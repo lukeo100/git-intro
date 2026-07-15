@@ -69,7 +69,7 @@ Open the *README.md* file in VSCode and add another line of text, such as "Markd
     - Two sections indicated by headings.
         - Cockroach Facts - must have at least 3 facts about cockroaches.  These must be in a bulleted list.
         - Cockroach Anatomy - must have at least 3 facts about cockroach anatomy.  These must be in a table format with two columns.  The first column should be the name of the body part and the second column should be a description of that body part.
-    - Include a link to a reputable source for more information about cockroaches.  The link should be in the format of [link text](URL).
+    - Include a link to a reputable source for more information about cockroaches.  The link should be in the format of ```[link text](URL)```.
     - Include an image of a cockroach.  The image should be in the *extras* folder and should be referenced in the *roaches.md* file using Markdown syntax.
 
 You can find a markdown cheat sheet here: [https://www.markdownguide.org/cheat-sheet/](https://www.markdownguide.org/cheat-sheet/)
